@@ -29,3 +29,5 @@ public class HelloJNI
 // test for git. First change
 // before being commited
 // test
+// another diff
+// test ignoring
