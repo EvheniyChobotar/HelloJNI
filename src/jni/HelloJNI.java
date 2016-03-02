@@ -32,3 +32,4 @@ public class HelloJNI
 // another diff
 // test ignoring
 // test git commit comand
+// test git commit -v
